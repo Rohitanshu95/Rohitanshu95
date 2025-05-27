@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Science%20Explorer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
+
 ## 🚀 About Me
 
 <table>
@@ -116,6 +117,24 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RohitanshuDhar&color=ff6b6b&style=for-the-badge&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/RohitanshuDhar?style=for-the-badge&color=79ff97&labelColor=0d1117)](https://github.com/RohitanshuDhar)
 
+![Visitor Map](https://api.visitorbadge.io/api/visitors?path=RohitanshuDhar&label=Visitor%20Map&countColor=%23FF6B6B&style=for-the-badge&labelStyle=for-the-badge)
+
+</div>
+
+---
+
+## 🏆 GitHub Stats & Trophies
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitanshuDhar&show_icons=true&theme=radical&hide=prs,issues&custom_title=Rohitanshu's%20GitHub%20Stats)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RohitanshuDhar&theme=radical&border_radius=6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitanshuDhar&layout=compact&theme=radical&langs_count=6)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=RohitanshuDhar&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -126,9 +145,13 @@
 
 <div align="center">
   
-### 🚀 *"Transforming data into decisions, one algorithm at a time!"* 🚀
+✨ *"Transforming data into decisions, one algorithm at a time!"* ✨
 
 **⭐ Star my repositories if you find them useful!**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" height="100">
+</p>
 
 *Made with ❤️ and lots of ☕*
 
