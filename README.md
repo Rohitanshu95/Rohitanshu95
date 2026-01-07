@@ -123,19 +123,7 @@
 
 ---
 
-## 🏆 GitHub Stats & Trophies
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitanshuDhar&show_icons=true&theme=radical&hide=prs,issues&custom_title=Rohitanshu's%20GitHub%20Stats)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RohitanshuDhar&theme=radical&border_radius=6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitanshuDhar&layout=compact&theme=radical&langs_count=6)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=RohitanshuDhar&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
