@@ -1,12 +1,16 @@
 # Hey there! 👋 I'm Rohitanshu Dhar
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Scientist+%26+ML+Engineer;Turning+Data+into+Insights;Welcome+to+my+Digital+Space!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dedicated%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Science%20Explorer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=80&lines=Building+Intelligent+Systems;AI+%7C+Data+Science+%7C+Data+Engineering;Turning+Data+into+Real+World+Impact"/>
 </div>
+
+
 
 ## 🚀 About Me
 
