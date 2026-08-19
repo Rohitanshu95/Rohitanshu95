@@ -18,7 +18,7 @@
 <tr>
 <td width="60%">
 
-🔬 **Data Scientist & ML Engineer** transforming raw data into meaningful insights
+🔬 **AI/ML Engineer** transforming raw data into meaningful insights and production systems
 
 📍 **Based in India** • 🧠 **AI Enthusiast** • 📊 **Analytics Expert**
 
@@ -29,7 +29,7 @@
 - 💡 **Innovation**: Creating solutions that make a real-world impact
 
 ### ⚡ Current Focus
-> Diving deep into **Computer Vision**, **Natural Language Processing**, and **Advanced ML Algorithms**
+> Diving deep into **Computer Vision**, **Natural Language Processing**, **MLOps**, and **Advanced ML Algorithms**
 
 </td>
 <td width="40%">
@@ -54,22 +54,25 @@
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-
-</div>
-
+![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
@@ -92,9 +95,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Data%20is%20not%20information,%20information%20is%20not%20knowledge,%20knowledge%20is%20not%20understanding,%20understanding%20is%20not%20wisdom.&author=Clifford%20Stoll"/>
 </div>
-
----
-
 ## 📊 Visitor Count & Profile Views
 
 <div align="center">
