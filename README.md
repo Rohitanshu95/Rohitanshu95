@@ -1,38 +1,38 @@
-# Hey there! 👋 I'm Rohitanshu Dhar
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dedicated%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Rohitanshu%20Dhar&fontSize=56&fontColor=00F7FF&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Data%20Engineering&descSize=20&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8CC&center=true&vCenter=true&width=700&height=45&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Turning+Data+into+Real+World+Impact+%F0%9F%93%8A;Dedicated+AI+Engineer+%F0%9F%9A%80"/>
+
+<p>
+<img src="https://img.shields.io/badge/📍_Based_in-India-203a43?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/🧠_Role-AI/ML_Engineer-203a43?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/⚡_Focus-MLOps_&_CV/NLP-203a43?style=for-the-badge&labelColor=0f2027"/>
+</p>
+
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=80&lines=Building+Intelligent+Systems;AI+%7C+Data+Science+%7C+Data+Engineering;Turning+Data+into+Real+World+Impact"/>
-</div>
-
-
+---
 
 ## 🚀 About Me
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
-🔬 **AI/ML Engineer** transforming raw data into meaningful insights and production systems
-
-📍 **Based in India** • 🧠 **AI Enthusiast** • 📊 **Analytics Expert**
+🔬 **AI/ML Engineer** transforming raw data into meaningful insights and production systems.
 
 ### 🎯 What Drives Me
-- 🤖 **Machine Learning**: Building intelligent systems that learn and adapt
-- 📈 **Data Analytics**: Uncovering hidden patterns in complex datasets  
-- 🔍 **AI Research**: Exploring cutting-edge techniques in Deep Learning & NLP
-- 💡 **Innovation**: Creating solutions that make a real-world impact
+- 🤖 **Machine Learning** – building intelligent systems that learn and adapt
+- 📈 **Data Analytics** – uncovering hidden patterns in complex datasets
+- 🔍 **AI Research** – exploring Deep Learning & NLP techniques
+- 💡 **Innovation** – creating solutions with real-world impact
 
 ### ⚡ Current Focus
 > Diving deep into **Computer Vision**, **Natural Language Processing**, **MLOps**, and **Advanced ML Algorithms**
 
 </td>
-<td width="40%">
+<td width="40%" align="center" valign="middle">
 
 <img src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" width="100%" alt="Coding Animation"/>
 
@@ -40,47 +40,93 @@
 </tr>
 </table>
 
+---
+
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+<div align="center">
+
+<h4>Languages & Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,mysql,mongodb&theme=dark" />
+</p>
+
+<h4>Machine Learning & Deep Learning</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv&theme=dark" />
+</p>
+
+<h4>Full Stack</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
+</p>
+
+<h4>DevOps & Cloud</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,nginx,aws,gcp,git,github&theme=dark" />
+</p>
+
+<h4>Data Science & Visualization</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+<h4>MLOps & Tooling</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge" />
+</p>
+
+</div>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rohitanshu95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00F7FF&icon_color=00F7FF&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitanshu95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00F7FF&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rohitanshu95&theme=tokyonight&hide_border=true&background=0f2027&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</div>
 
 ---
 
+## 🐍 Contribution Snake
 
-## 🌐 Connect With Me
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Rohitanshu95/github-snake/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Rohitanshu95/github-snake/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Rohitanshu95/github-snake/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
-  
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitanshudhar07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitanshu-dhar/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rohitanshu86?t=Ynsw8AgmGgKFQDPcXodN-A&s=09)
@@ -95,37 +141,17 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Data%20is%20not%20information,%20information%20is%20not%20knowledge,%20knowledge%20is%20not%20understanding,%20understanding%20is%20not%20wisdom.&author=Clifford%20Stoll"/>
 </div>
-## 📊 Visitor Count & Profile Views
+
+<br>
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=RohitanshuDhar&color=ff6b6b&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/RohitanshuDhar?style=for-the-badge&color=79ff97&labelColor=0d1117)](https://github.com/RohitanshuDhar)
 
-![Visitor Map](https://api.visitorbadge.io/api/visitors?path=RohitanshuDhar&label=Visitor%20Map&countColor=%23FF6B6B&style=for-the-badge&labelStyle=for-the-badge)
-
-</div>
-
----
-
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
-
-<div align="center">
-  
 ✨ *"Transforming data into decisions, one algorithm at a time!"* ✨
 
 **⭐ Star my repositories if you find them useful!**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" height="100">
-</p>
-
 *Made with ❤️ and lots of ☕*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
